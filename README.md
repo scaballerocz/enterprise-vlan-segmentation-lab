@@ -80,3 +80,20 @@ Durante la práctica se identificó que el enlace trunk no aparecía en `show in
 - Practicar fallos intencionales y documentar su diagnóstico.
 
 **Estado:** laboratorio básico configurado. Las pruebas de fallos intencionales quedan pendientes.
+
+## 11. Evidencias del laboratorio
+
+ Topología de red
+![Topología de red](topología.jpg)
+
+ VLANs configuradas
+![VLANs configuradas](VLANs%20configuradas.jpg)
+
+ Enlace trunk
+![Enlace trunk](Enlace%20trunk.jpg)
+
+ DHCP funcionando
+![DHCP funcionando](DHCP%20funcionando.jpg)
+
+ Prueba de conectividad
+![Prueba de conectividad](Prueba%20de%20conectividad.jpg)
