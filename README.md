@@ -85,20 +85,20 @@ Durante la práctica se identificó que el enlace trunk no aparecía en `show in
 
  Topología de red
  
-![Topología de red](topología.jpg)
+![Topología de red](Evidencias/topología.jpg)
 
  VLANs configuradas
  
-![VLANs configuradas](VLANs%20configuradas.jpg)
+![VLANs configuradas](Evidencias/VLANs%20configuradas.jpg)
 
  Enlace trunk
  
-![Enlace trunk](Enlace%20trunk.jpg)
+![Enlace trunk](Evidencias/Enlace%20trunk.jpg)
 
  DHCP funcionando
  
-![DHCP funcionando](DHCP%20funcionando.jpg)
+![DHCP funcionando](Evidencias/DHCP%20funcionando.jpg)
 
  Prueba de conectividad
  
-![Prueba de conectividad](Prueba%20de%20conectividad.jpg)
+![Prueba de conectividad](Evidencias/Prueba%20de%20conectividad.jpg)
