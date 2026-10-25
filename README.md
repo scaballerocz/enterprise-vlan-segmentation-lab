@@ -24,8 +24,10 @@ La red está compuesta por:
 
 | VLAN | Departamento | Red | Gateway |
 ------------------------------------------
-| 10 | Administración | 192.168.10.0/24 | 192.168.10.1 |
+| 10 | Administración | 192.168.10.0/24 | 192.168.10.1 
+
 | 20 | Ventas | 192.168.20.0/24 | 192.168.20.1 |
+
 | 30 | Soporte TI | 192.168.30.0/24 | 192.168.30.1 |
 
 ## 5. Tecnologías y conceptos
